@@ -5,7 +5,7 @@ import { useState } from 'react';
 export default function User() {
   const [isOpen, setIsOpen] = useState(false);
   const handleClick = () => {
-    window.location.href = 'https://github.com/yyusronwirawan/searchenginee/';
+    window.location.href = 'https://github.com/yyusronwirawan/';
   };
 
   return (
