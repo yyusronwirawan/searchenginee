@@ -35,7 +35,7 @@ export default function User() {
           >
             <FiUser />
             <h2 className="text-sm">
-              <a href="https://bagusok.github.io/">Author</a>
+              <a href="https://github.com/yyusronwirawan/">Author</a>
             </h2>
           </div>
         </div>
